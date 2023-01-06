@@ -10,7 +10,7 @@ To add prosit to your project as an alternative code generator, use the patch fe
 
 ```
 [dependencies]
-prost = "0.7"
+prost = "0.9"
 uuid = "0.8"
 
 [build-dependencies]
